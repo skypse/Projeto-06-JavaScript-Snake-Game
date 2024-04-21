@@ -9,7 +9,7 @@ Este é um jogo clássico de Snake, onde o jogador controla uma cobra que se mov
 - Comida: a cobra pode comer comida que aparece aleatoriamente no tabuleiro, aumentando seu tamanho.
 - Pontuação: a pontuação do jogador é exibida no topo da tela, mostrando quantos itens a cobra comeu.
 - High Score: o jogo mantém o controle do high score, que é atualizado sempre que o jogador atinge uma nova pontuação máxima.
-- Sons: o jogo reproduz sons para indicar quando a cobra come comida, quando o jogo termina
+- Sons: o jogo reproduz sons para indicar quando a cobra come comida, também tem uma música tema de fundo e quando perde toca o som do game-over.
 
 ### 🚀 Tecnologias
 
