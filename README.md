@@ -26,7 +26,7 @@ Este é um jogo clássico de Snake, onde o jogador controla uma cobra que se mov
 - **Desenho do tabuleiro e elementos**: O código desenha o tabuleiro do jogo, a cobra, a comida e outros elementos na tela usando HTML e CSS.
 - **Controle da cobra**: A lógica do movimento da cobra é implementada em JavaScript, permitindo que o jogador controle a direção da cobra usando as teclas de seta.
 - **Colisões e pontuação**: O código verifica colisões da cobra com as bordas do tabuleiro e com ela mesma. Além disso, mantém a pontuação do jogador atualizada.
-- **Sons**: O código reproduz sons específicos para indicar eventos como a cobra comendo comida, o jogo terminando e o jogador alcançando um novo high score.
+- **Sons**: O código reproduz sons específicos para indicar eventos como a cobra comendo comida, também tem uma música tema de fundo e quando perde toca o som do game-over.
 
 # Contato
 
